@@ -32,3 +32,9 @@ h3 {
 img {
     max-height: 200px;
 }
+p {
+    margin-top: 5px;
+    font-size: 0.9em;
+    text-align: justify;
+    margin-bottom: 10px;
+}
