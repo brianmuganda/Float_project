@@ -1,0 +1,9 @@
+/*Provided CSS*/
+header {
+    text-align: center;
+    padding-bottom: 10px;
+}
+time {
+    border-style: dashed none dashed none;
+    display: block
+}
