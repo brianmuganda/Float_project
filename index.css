@@ -42,3 +42,6 @@ p {
     font-family: times;
     font-size: 0.8em;
 }
+a {
+    font-weight: 900;
+}
