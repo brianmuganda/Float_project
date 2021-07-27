@@ -19,3 +19,7 @@ h3 {
     font-family: Georgia, sans-serif;
     font-size: 1.3em;
 }
+.content {
+    margin: 0 0 0 10px;
+    /*box-shadow: 0 0 20px 0px #888888;*/
+}
