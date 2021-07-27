@@ -38,3 +38,7 @@ p {
     text-align: justify;
     margin-bottom: 10px;
 }
+.column p {
+    font-family: times;
+    font-size: 0.8em;
+}
