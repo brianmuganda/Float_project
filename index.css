@@ -26,3 +26,6 @@ h3 {
 .first {
     margin: 10px;
 }
+img {
+    max-height: 200px;
+}
