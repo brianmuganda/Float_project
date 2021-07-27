@@ -14,3 +14,8 @@ h1 {
     text-shadow: 3px 1px black;
     margin-bottom: 40px;
 }
+h3 {
+    margin: 0;
+    font-family: Georgia, sans-serif;
+    font-size: 1.3em;
+}
