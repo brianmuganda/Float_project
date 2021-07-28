@@ -6,3 +6,9 @@ main {
     overflow: scroll;
     width: 65%;
 }
+#one {
+    float: left;
+    height: 200px;
+    width: 300px;
+    margin: 0 10px 0 0;
+}
