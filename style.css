@@ -12,3 +12,7 @@ main {
     width: 300px;
     margin: 0 10px 0 0;
 }
+#two {
+    float: right;
+    margin: 10px 0 0 10px;
+}
