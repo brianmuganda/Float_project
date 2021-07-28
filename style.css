@@ -1,3 +1,8 @@
 html {
     background-color: rgb(200, 130, 173);
 }
+main {
+    background-color: rgb(237, 237, 237);
+    overflow: scroll;
+    width: 65%;
+}
